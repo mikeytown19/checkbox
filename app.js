@@ -18,7 +18,7 @@ function handleCheck(e){
 
         if(inBetween){
             checkbox.checked = true;
-        }
+            }
         })
     }
     lastChekced = this;
